@@ -22,7 +22,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * This class contains implementation of all basic configuration annotations
  * 
- *It is a base Class of Sanjay
+ *
  */
 public class BaseClass {
 	public WebDriver driver;
@@ -36,7 +36,7 @@ public class BaseClass {
 	public int randomNumber;
 	public static String username;
 	public static String password;
-	//public String browser;
+	public String browser;
 	public String url;
 	public long longTimeOut;
 
@@ -61,7 +61,7 @@ public class BaseClass {
 	 */
 	@Parameters("browser")
 	@BeforeClass(groups = "baseclass")
-	public void beforeClass1Test(String browser) throws IOException {
+	public void beforeClass1Test() throws IOException {
 		fileUtility=new FileUtility();
 		excelUtility=new ExcelUtility();
 		javaUtility=new JavaUtility();
@@ -76,7 +76,7 @@ public class BaseClass {
 		String timeout = fileUtility.getDataFromPropertyFile("timeout");
 		username = fileUtility.getDataFromPropertyFile("userName");
 		password = fileUtility.getDataFromPropertyFile("password");
-		// browser=fileUtility.getDataFromPropertyFile("browser");
+		browser=fileUtility.getDataFromPropertyFile("browser");
 		longTimeOut = javaUtility.stringToLong(timeout);
 		randomNumber = javaUtility.getRandomNumber(1000);
 
