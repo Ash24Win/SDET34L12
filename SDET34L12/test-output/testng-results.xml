@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[beforesuite11]]>
+    </line>
+    <line>
+      <![CDATA[beforeTest11]]>
+    </line>
+    <line>
+      <![CDATA[beforeClass11]]>
+    </line>
+    <line>
+      <![CDATA[beforeMethod11]]>
+    </line>
+    <line>
+      <![CDATA[siddanth]]>
+    </line>
+    <line>
+      <![CDATA[afterMethod11]]>
+    </line>
+    <line>
+      <![CDATA[beforeMethod11]]>
+    </line>
+    <line>
+      <![CDATA[ashwin]]>
+    </line>
+    <line>
+      <![CDATA[afterMethod11]]>
+    </line>
+    <line>
+      <![CDATA[beforeMethod11]]>
+    </line>
+    <line>
+      <![CDATA[TestNgPractice2Test --> Test1]]>
+    </line>
+    <line>
+      <![CDATA[afterMethod11]]>
+    </line>
+    <line>
+      <![CDATA[beforeMethod11]]>
+    </line>
+    <line>
+      <![CDATA[TestNgPractice2Test --> Test2]]>
+    </line>
+    <line>
+      <![CDATA[afterMethod11]]>
+    </line>
+    <line>
+      <![CDATA[beforeMethod11]]>
+    </line>
+    <line>
+      <![CDATA[TestNgPractice2Test --> Test3]]>
+    </line>
+    <line>
+      <![CDATA[afterMethod11]]>
+    </line>
+    <line>
+      <![CDATA[beforeMethod11]]>
+    </line>
+    <line>
+      <![CDATA[TestNgPractice2Test --> Test4]]>
+    </line>
+    <line>
+      <![CDATA[afterMethod11]]>
+    </line>
+    <line>
+      <![CDATA[beforeMethod11]]>
+    </line>
+    <line>
+      <![CDATA[TestNgPractice2Test --> Test5]]>
+    </line>
+    <line>
+      <![CDATA[afterMethod11]]>
+    </line>
+    <line>
+      <![CDATA[afterClass11]]>
+    </line>
+    <line>
+      <![CDATA[afterTest11]]>
+    </line>
+    <line>
+      <![CDATA[aftersuite11]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-31T12:04:57 IST" name="Suite" finished-at="2022-05-31T12:04:57 IST" duration-ms="848">
+    <groups>
+      <group name="regression">
+        <method signature="TestNgPractice2Test.practice2Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" name="practice2Test" class="com.vtiger.practice.TestNgPractice2Test"/>
+        <method signature="TestNgPractice2Test.practice3Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" name="practice3Test" class="com.vtiger.practice.TestNgPractice2Test"/>
+        <method signature="TestNgPractice2Test.practice5Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" name="practice5Test" class="com.vtiger.practice.TestNgPractice2Test"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TestNgPractice2Test.mohan()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" name="mohan" class="com.vtiger.practice.TestNgPractice2Test"/>
+        <method signature="TestNgPractice2Test.mohan1()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" name="mohan1" class="com.vtiger.practice.TestNgPractice2Test"/>
+        <method signature="TestNgPractice2Test.practice1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" name="practice1Test" class="com.vtiger.practice.TestNgPractice2Test"/>
+        <method signature="TestNgPractice2Test.practice4Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" name="practice4Test" class="com.vtiger.practice.TestNgPractice2Test"/>
+        <method signature="TestNgPractice2Test.practice5Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" name="practice5Test" class="com.vtiger.practice.TestNgPractice2Test"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2022-05-31T12:04:57 IST" name="Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="848">
+      <class name="com.vtiger.practice.TestNgPractice2Test">
+        <test-method is-config="true" signature="beforesuite1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforesuite1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforesuite11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforesuite1Test -->
+        <test-method is-config="true" signature="beforeTest1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforeTest1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeTest11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest1Test -->
+        <test-method is-config="true" signature="beforeClass1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforeClass1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeClass11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass1Test -->
+        <test-method is-config="true" signature="beforeMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforeMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1Test -->
+        <test-method signature="mohan()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="mohan" finished-at="2022-05-31T12:04:57 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[siddanth]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mohan -->
+        <test-method is-config="true" signature="afterMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="afterMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[afterMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod1Test -->
+        <test-method is-config="true" signature="beforeMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforeMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1Test -->
+        <test-method signature="mohan1()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="mohan1" finished-at="2022-05-31T12:04:57 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ashwin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mohan1 -->
+        <test-method is-config="true" signature="afterMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="afterMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[afterMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod1Test -->
+        <test-method is-config="true" signature="beforeMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforeMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1Test -->
+        <test-method signature="practice1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="practice1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNgPractice2Test --> Test1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice1Test -->
+        <test-method is-config="true" signature="afterMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="afterMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[afterMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod1Test -->
+        <test-method is-config="true" signature="beforeMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforeMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1Test -->
+        <test-method signature="practice2Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="practice2Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNgPractice2Test --> Test2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice2Test -->
+        <test-method is-config="true" signature="afterMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="afterMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[afterMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod1Test -->
+        <test-method is-config="true" signature="beforeMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforeMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1Test -->
+        <test-method signature="practice3Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="practice3Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNgPractice2Test --> Test3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice3Test -->
+        <test-method is-config="true" signature="afterMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="afterMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[afterMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod1Test -->
+        <test-method is-config="true" signature="beforeMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforeMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1Test -->
+        <test-method signature="practice4Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="practice4Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNgPractice2Test --> Test4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice4Test -->
+        <test-method is-config="true" signature="afterMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="afterMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[afterMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod1Test -->
+        <test-method is-config="true" signature="beforeMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="beforeMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1Test -->
+        <test-method signature="practice5Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="practice5Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNgPractice2Test --> Test5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice5Test -->
+        <test-method is-config="true" signature="afterMethod1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="afterMethod1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[afterMethod11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod1Test -->
+        <test-method is-config="true" signature="afterCass1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="afterCass1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[afterClass11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterCass1Test -->
+        <test-method is-config="true" signature="afterTest1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:57 IST" name="afterTest1Test" finished-at="2022-05-31T12:04:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[afterTest11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest1Test -->
+        <test-method is-config="true" signature="aftersuite1Test()[pri:0, instance:com.vtiger.practice.TestNgPractice2Test@234a8f27]" started-at="2022-05-31T12:04:58 IST" name="aftersuite1Test" finished-at="2022-05-31T12:04:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[aftersuite11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftersuite1Test -->
+      </class> <!-- com.vtiger.practice.TestNgPractice2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
